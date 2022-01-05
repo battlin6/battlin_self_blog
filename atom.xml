@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://blog.battlin.site/</id>
     <title>battlin</title>
-    <updated>2022-01-05T21:19:38.666Z</updated>
+    <updated>2022-01-05T21:25:00.596Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://blog.battlin.site/"/>
     <link rel="self" href="http://blog.battlin.site/atom.xml"/>
@@ -25,7 +25,7 @@
 <li>事实上可以使用任意名称的仓库，只要使用<strong>gitHub.io</strong>的二级域名即可</li>
 <li>域名可以使用<strong>用户名.github.io/仓库名</strong>，也可以使用<strong>Custom domain</strong>; 而后者的配置可以通过<strong>CNAME</strong>来解决，需要第一次配置的时候先用前者更新好</li>
 <li>Github的网络确实是一大问题，有时候失败多试几次</li>
-<li>针对上一个问题，给Clash的System Proxy开关多开关几次试一试</li>
+<li>针对上一个问题，给Clash的System Proxy开关多开关几次试一试（🤡我错了 好像真的只能看运气）</li>
 <li>主页面的摘要可以在右侧面板插入（虽然好像这并不是Markdown的而是软件自生的特性）</li>
 </ul>
 ]]></content>
