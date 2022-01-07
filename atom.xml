@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://blog.battlin.site/</id>
     <title>battlin</title>
-    <updated>2022-01-05T21:25:00.596Z</updated>
+    <updated>2022-01-07T18:31:10.141Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://blog.battlin.site/"/>
     <link rel="self" href="http://blog.battlin.site/atom.xml"/>
@@ -10,6 +10,27 @@
     <logo>http://blog.battlin.site/images/avatar.png</logo>
     <icon>http://blog.battlin.site/favicon.ico</icon>
     <rights>All rights reserved 2022, battlin</rights>
+    <entry>
+        <title type="html"><![CDATA[摆烂的魅力]]></title>
+        <id>http://blog.battlin.site/post/bai-lan-de-mei-li/</id>
+        <link href="http://blog.battlin.site/post/bai-lan-de-mei-li/">
+        </link>
+        <updated>2022-01-07T18:18:29.000Z</updated>
+        <summary type="html"><![CDATA[<p>什么时候能够不摆烂呢？</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>什么时候能够不摆烂呢？</p>
+<!-- more -->
+<p>好像自己现在有点不太愿意去做有挑战性的工作</p>
+<p>有时候拖延到最后就摆烂</p>
+<ul>
+<li>有时候是没休息好精力不够有点头晕</li>
+<li>有时候是想到了其他有意思的事情立刻开摆</li>
+<li>有时候纯粹躺着漫无边际的瞎想</li>
+</ul>
+<p>不过倒是很少出现那种<em>学习五分钟摸鱼两小时</em>的情况倒是了</p>
+<p>或许我只是不愿开始做事罢了 有点可惜🐼</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gridea 远程配置自定义域名]]></title>
         <id>http://blog.battlin.site/post/gridea-yuan-cheng-pei-zhi-zi-ding-yi-yu-ming/</id>
