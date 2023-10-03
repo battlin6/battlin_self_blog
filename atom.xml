@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://blog.battlin.site/</id>
+    <title>battlin</title>
+    <updated>2023-10-03T18:57:45.042Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://blog.battlin.site/"/>
+    <link rel="self" href="https://blog.battlin.site/atom.xml"/>
+    <subtitle>我很懒，但很想留下什么</subtitle>
+    <logo>https://blog.battlin.site/images/avatar.png</logo>
+    <icon>https://blog.battlin.site/favicon.ico</icon>
+    <rights>All rights reserved 2023, battlin</rights>
+    <entry>
+        <title type="html"><![CDATA[最近的随记]]></title>
+        <id>https://blog.battlin.site/post/sui-ji/</id>
+        <link href="https://blog.battlin.site/post/sui-ji/">
+        </link>
+        <updated>2023-10-03T18:55:31.000Z</updated>
+        <content type="html"><![CDATA[<ul>
+<li>高中读《陈情表》——“既无伯叔，终鲜兄弟，门衰祚薄，晚有儿息。”<br>
+计划生育四十多年，这话倒能形容正常青年了</li>
+</ul>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《黑羊》——[意大利] 卡尔维诺]]></title>
+        <id>https://blog.battlin.site/post/yu-yan-gu-shi-lesslesshei-yang-greatergreater-yi-da-li-qia-er-wei-nuo/</id>
+        <link href="https://blog.battlin.site/post/yu-yan-gu-shi-lesslesshei-yang-greatergreater-yi-da-li-qia-er-wei-nuo/">
+        </link>
+        <updated>2023-10-03T18:52:23.000Z</updated>
+        <content type="html"><![CDATA[<p>从前有个国家，里面人人是贼。<br>
+一到傍晚，他们手持万能钥匙和遮光灯笼出门，走到邻居家里行窃。破晓时分，他们提着偷来的东西回到家里，总能发现自己家也失窃了。<br>
+他们就这样幸福地居住在一起。没有不幸的人，因为每个人都从别人那里偷东西，别人又再从别人那里偷，依次下去，直到最后一个人去第一个窃贼家行窃。该国贸易也就不可避免地是买方和卖方的双向欺骗。政府是个向臣民行窃的犯罪机构，而臣民也仅对欺骗政府感兴趣。所以日子倒也平稳，没有富人和穷人。<br>
+有一天——到底是怎么回事没人知道——总之是有个诚实人到了该地定居。到晚上，他没有携袋提灯地出门，却呆在家里抽烟读小说。<br>
+贼来了，见灯亮着，就没进去。<br>
+这样持续了有一段时间。后来他们感到有必要向他挑明一下，纵使他想什么都不做地过日子，可他没理由妨碍别人做事。他天天晚上呆在家里，这就意味着有一户人家第二天没了口粮。<br>
+诚实人感到他无力反抗这样的逻辑。从此他也像他们一样，晚上出门，次日早晨回家，但他不行窃。他是诚实的。对此，你是无能为力的。他走到远处的桥上，看河水打桥下流过。每次回家，他都会发现家里失窃了。<br>
+不到一星期，诚实人就发现自己已经一文不名了；他家徒四壁，没任何东西可吃。但这不能算不了什么，因为那是他自己的错；不，问题是他的行为使其他人很不安。因为他让别人偷走了他的一切却不从别人那儿偷任何东西；这样总有人在黎明回家时，发现家里没被动过——那本该是由诚实人进去行窃的。不久以后，那些没有被偷过的人家发现他们比人家就富了，就不想再行窃了。更糟的是，那些跑到诚实人家里去行窃的人，总发现里面空空如也，因此他们就变穷了。<br>
+同时，富起来的那些人和诚实人一样，养成了晚上去桥上的习惯，他们也看河水打桥下流过。这样，事态就更混乱了，因为这意味着更多的人在变富，也有更多的人在变穷。<br>
+现在，那些富人发现，如果他们天天去桥上，他们很快也会变穷的。他们就想：“我们雇那些穷的去替我们行窃吧。”他们签下合同，敲定了工资和如何分成。自然，他们依然是贼，依然互相欺骗。但形势表明，富人是越来越富，穷人是越来越穷。<br>
+有些人富裕得已经根本无须亲自行窃或雇人行窃就可保持富有。但一旦他们停止行窃的话，他们就会变穷，因为穷人会偷他们。因此他们又雇了穷人中的最穷者来帮助他们看守财富，以免遭穷人行窃，这就意味着要建立警察局和监狱。<br>
+因此，在那诚实人出现后没几年，人们就不再谈什么偷盗或被偷盗了，而只说穷人和富人；但他们个个都还是贼。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[禁止迅雷极速版自动升级为迅雷X的办法]]></title>
+        <id>https://blog.battlin.site/post/jin-zhi-xun-lei-ji-su-ban-zi-dong-sheng-ji-wei-xun-lei-x-de-ban-fa/</id>
+        <link href="https://blog.battlin.site/post/jin-zhi-xun-lei-ji-su-ban-zi-dong-sheng-ji-wei-xun-lei-x-de-ban-fa/">
+        </link>
+        <updated>2023-09-19T17:38:43.000Z</updated>
+        <content type="html"><![CDATA[<p><strong>禁止迅雷极速版，強制性升級成迅雷X的方法</strong></p>
+<ol>
+<li>
+<p>進入迅雷安裝目录下的Data目录，先看有沒有Thunderpush文件夾，有的话删掉，然后新建一个ThunderPush文件夾（注意是文件夾）（如果Data目录沒有ThunderPush文件夾就更省事了，都不用刪除這一步，直接新建一个ThunderPush文件夾）</p>
+</li>
+<li>
+<p>然后直接右键ThunderPush文件夹。属性，勾选&quot;只读&quot;-&gt;安全-&gt; 编辑-&gt; 完全控制<br>
+勾选“拒绝&quot;，应用。双击ThunderPush文件夹,看看有没有访问权限提示，有的话，就成<br>
+功了。</p>
+</li>
+</ol>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大片纸和小片纸]]></title>
+        <id>https://blog.battlin.site/post/da-pian-zhi-he-xiao-pian-zhi/</id>
+        <link href="https://blog.battlin.site/post/da-pian-zhi-he-xiao-pian-zhi/">
+        </link>
+        <updated>2023-09-19T02:50:13.000Z</updated>
+        <content type="html"><![CDATA[<p>我时常在思考一个问题<br>
+从浪费的角度来考虑，究竟是大片纸还是小片纸浪费的比较少呢<br>
+大片纸会出现一片纸用不完的情况，小片纸会出现一张不够用再用一张的情况<br>
+这样都会出现有部分面积的浪费<br>
+之后会不会出现可以量化面积的出纸机呢？<br>
+但是那我怎么知道我需要多少面积呢？<br>
+想不明白<br>
+那我究竟是大片纸还是小片纸呢？</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科研的思考记录——节点集合的状态更新 9.17]]></title>
+        <id>https://blog.battlin.site/post/ke-yan-idea-de-si-kao-ji-lu/</id>
+        <link href="https://blog.battlin.site/post/ke-yan-idea-de-si-kao-ji-lu/">
+        </link>
+        <updated>2023-09-16T18:57:32.000Z</updated>
+        <content type="html"><![CDATA[<p>路径中的点更新？<br>
+不需要每次都更新状态<br>
+对于查询的点立刻更新状态<br>
+（前几个状态来验证？）</p>
+<p>节点集合 代替验证 只要头通过后面都ok？</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[最近的随记（Until 23.9）]]></title>
+        <id>https://blog.battlin.site/post/yi-xie-zui-jin-de-sui-ji-until-239/</id>
+        <link href="https://blog.battlin.site/post/yi-xie-zui-jin-de-sui-ji-until-239/">
+        </link>
+        <updated>2023-09-14T19:01:49.000Z</updated>
+        <content type="html"><![CDATA[<ul>
+<li>
+<p>到底要不要把梦里的故事记录下来呢？令人费解</p>
+</li>
+<li>
+<p>看到各位老师的能力 颇感佩服<br>
+无论是能力精力和体力都是自愧不如<br>
+和老师之间的English talking也是很有裨益<br>
+行文技巧 文章结构 内容取舍都十分激烈的讨论</p>
+</li>
+<li>
+<p>他认为自己是天将降大任于斯人也，拼搏到无能为力努力到感动自己；但实际上别人是苟富贵而忘大义，别跟我讲大局观，就想兜里多赚点钱</p>
+</li>
+<li>
+<p>投入时间是取得成果的必要非充分条件</p>
+</li>
+<li>
+<p>昔者纣为象箸而箕子怖。以为象箸必不加于土鉶，必将犀玉之杯；象箸玉杯必不羹菽藿，则必旄象豹胎；旄象豹胎必不衣短褐而食于茅屋之下，则锦衣九重，广室高台。吾畏其卒，故怖其始。</p>
+</li>
+<li>
+<p>现在想到唯一有点愧疚的是那一次在涵泽湖旁边，看到一条蛇的事情，感觉不知道怎么处理的更好，或许是那一次真的有点头晕...</p>
+</li>
+<li>
+<p>间歇性踌躇满志，持续性混吃等死</p>
+</li>
+<li>
+<p>当我看到一只鸟，它走路像鸭子、游泳像鸭子、叫声像鸭子，我就称其为鸭子。</p>
+</li>
+<li>
+<p>一个双腿交叉蹒跚，嘴里呜哩哇啦的人停在了门口，晃动着他手里的罐子--声音很清脆。“老板生意兴隆，有没有钱，有没有钱，老板生意越来越好……”他大抵说的是这些。我想，如果他有个手机我兴许会转他几块钱。</p>
+</li>
+</ul>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[看了《博士研磨》之后的记录]]></title>
+        <id>https://blog.battlin.site/post/kan-liao-lesslessbo-shi-yan-mo-greatergreater-zhi-hou-de-yi-xie-gan-xiang/</id>
+        <link href="https://blog.battlin.site/post/kan-liao-lesslessbo-shi-yan-mo-greatergreater-zhi-hou-de-yi-xie-gan-xiang/">
+        </link>
+        <updated>2023-09-14T18:39:32.000Z</updated>
+        <content type="html"><![CDATA[<ul>
+<li>
+<p>这是我生命中第一次感受到被手头的工作所淹没的无望。以前，我的暑期实习都相对不难，而且就算一些学校的作业对我来说有些挑战，作业中也总有一个需要找到的正确答案等着我。如果我课上有没听懂的内容，<br>
+助教或者高年级的学生总可以帮我答疑解惑。就算在本科进行学术研究的时候，我也总能请辅导我的博士学长帮忙，因为我当时处理的问题相对比较简单，而他通常知道问题的解决方法。对于本科的研究助理而言，对学<br>
+术研究的投入以及期望也相对较低：科研只是我日常生活很小的一部分。如果我在某个科研问题上毫无头绪，我可以选择集中精力在课程作业上，或者干脆和朋友们出去玩。本科毕业也和学术研究毫无关联。然而，作为<br>
+博士研究生，学术研究是我唯一的工作，除非我在学术研究上能有所成果，否则我将得不到博士学位。我难以把自己的情绪和每天的研究进展分离开来，而在那几个月中，我的研究进展出奇得缓慢。</p>
+</li>
+<li>
+<p>和我们在公司上班的朝九晚五的同学们不同的是，我们没有马上做出任何实物的压力——我们没有项目截止日期的催促，也没有中层管理人员需要取悦。对于系里大部分学生而言，他们偶尔休息一天其实并没有人会在意，所以以此类推，为什么不干脆休息两天、休息一周，甚至休息一个月呢？所以，博士生在第三年左右退出博士项目并不是什么应该令人惊讶的事情。为了防止拖延症，我不知疲倦地工作，逼自己保持自律，并保持工作日规律地工作。我试着对自己进行“微观管理”，每天给自己制定较小、容易完成的目标来激励自己，期望着最终能收获一个积极的结果。但结果是，因为很难看到自己每天的进展，我很难保持自己在工作中充满动力。  😭😭😭</p>
+</li>
+</ul>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[重装了DELL G3的win10系统]]></title>
+        <id>https://blog.battlin.site/post/chong-zhuang-liao-dell-g3-de-win10-xi-tong/</id>
+        <link href="https://blog.battlin.site/post/chong-zhuang-liao-dell-g3-de-win10-xi-tong/">
+        </link>
+        <updated>2023-09-13T17:37:48.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="起因">起因</h3>
+<p>两个月没回实验室，好像那台年龄为4岁的DELL一个暑假没关系，过去一看死机啦！</p>
+<h3 id="经过">经过</h3>
+<p>好像系统出了点问题，打也打不开，修复也不行，真是逆天</p>
+<h3 id="解决">解决</h3>
+<p>重装了系统，也一举消灭了MS工作账户的遗毒<br>
+主要参考<a href="https://zhuanlan.zhihu.com/p/49181786">win10系统安装教程（官方工具）</a></p>
+<h3 id="其他问题">其他问题</h3>
+<p>在这个过程中，遇到其他问题，均通过Google搜索解决</p>
+<ul>
+<li>出现“计算机意外的重新启动或遇到错误,windows安装无法继续”</li>
+<li>存储盘的格式化</li>
+<li>操作系统多个引导的删除</li>
+</ul>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[解决Gridea同步的方法]]></title>
+        <id>https://blog.battlin.site/post/jie-jue-gridea-tong-bu-de-yi-ge-fang-fa/</id>
+        <link href="https://blog.battlin.site/post/jie-jue-gridea-tong-bu-de-yi-ge-fang-fa/">
+        </link>
+        <updated>2023-09-13T17:24:00.000Z</updated>
+        <content type="html"><![CDATA[<p>今天也是在Issues中找到的一个办法 对于我这种有着固定科学手段的用户来说还是比较实用的<br>
+<a href="https://github.com/getgridea/gridea/issues/1129"><strong>我提供解决《无法连接》《无法同步问题》的方案</strong></a></p>
+<p>深感自己对于网络端口知识的缺失啊😿</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[喜欢用睡梦度过悠长的下午，把清醒留给静谧的凌晨]]></title>
+        <id>https://blog.battlin.site/post/xi-huan-yong-shui-meng-du-guo-you-chang-de-xia-wu-ba-qing-xing-liu-gei-jing-mi-de-ling-chen/</id>
+        <link href="https://blog.battlin.site/post/xi-huan-yong-shui-meng-du-guo-you-chang-de-xia-wu-ba-qing-xing-liu-gei-jing-mi-de-ling-chen/">
+        </link>
+        <updated>2022-01-15T10:46:32.000Z</updated>
+        <summary type="html"><![CDATA[<p>好像...还挺不错的...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>好像...还挺不错的...</p>
+<!-- more -->
+<p>突然想对自己的作息写点什么<br>
+想了蛮多 但是回过头来发现好像也不太会去改...</p>
+<p>啊 好困 赶紧睡觉去了😴😴😴😴</p>
+]]></content>
+    </entry>
+</feed>
