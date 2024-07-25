@@ -1,0 +1,180 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    
+<meta charset="utf-8" >
+
+<title>最近的随记 | battlin</title>
+<meta name="description" content="我很懒，但很想留下什么">
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+<link rel="shortcut icon" href="https://blog.battlin.site//favicon.ico?v=1721930167059">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
+<link rel="stylesheet" href="https://blog.battlin.site//styles/main.css">
+
+
+
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+<script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
+
+
+
+  </head>
+  <body>
+    <div id="app" class="main">
+      <div class="site-header-container">
+  <div class="site-header">
+    <div class="left">
+      <a href="https://blog.battlin.site/">
+        <img class="avatar" src="https://blog.battlin.site//images/avatar.png?v=1721930167059" alt="" width="32px" height="32px">
+      </a>
+      <a href="https://blog.battlin.site/">
+        <h1 class="site-title">battlin</h1>
+      </a>
+    </div>
+    <div class="right">
+      <transition name="fade">
+        <i class="icon" :class="{ 'icon-close-outline': menuVisible, 'icon-menu-outline': !menuVisible }" @click="menuVisible = !menuVisible"></i>
+      </transition>
+    </div>
+  </div>
+</div>
+
+<transition name="fade">
+  <div class="menu-container" style="display: none;" v-show="menuVisible">
+    <div class="menu-list">
+      
+        
+          <a href="/" class="menu purple-link">
+            首页
+          </a>
+        
+      
+        
+          <a href="/archives" class="menu purple-link">
+            归档
+          </a>
+        
+      
+        
+          <a href="/tags" class="menu purple-link">
+            标签
+          </a>
+        
+      
+        
+          <a class="menu purple-link" href="http://cv.battlin.site/" class="menu" target="_blank">
+            关于
+          </a>
+        
+      
+    </div>
+  </div>
+</transition>
+
+
+      <div class="content-container">
+        <div class="post-detail">
+          
+          <h2 class="post-title">最近的随记</h2>
+          <div class="post-info post-detail-info">
+            <span><i class="icon-calendar-outline"></i> 2023-10-04</span>
+            
+              <span>
+                <i class="icon-pricetags-outline"></i>
+                
+                  <a href="https://blog.battlin.site/tag/wUoWlTpCn/">
+                    Jotting
+                    
+                  </a>
+                
+              </span>
+            
+          </div>
+          <div class="post-content">
+            <ul>
+<li>
+<p>高中读《陈情表》——“既无伯叔，终鲜兄弟，门衰祚薄，晚有儿息。”<br>
+计划生育四十多年，这话倒能形容正常青年了</p>
+</li>
+<li>
+<p>知乎中看到的一些文字</p>
+<ul>
+<li>善于用费曼学习方法，把自己做的工作将给别人听，看不是你这个方向的人能否理解，如果不能理            解，找到导致他们不能理解的问题点，自己继续深刻理解，想办法如何将自己的工作以通俗易懂的方式讲出来。</li>
+<li>如何从实验结果中找 insights，一个角度是 相关性分析，为什么会 trigger 这种情况，是哪些 factor 所导致的；一个角度是 因果分析，从表象里找更深的 rootcause。</li>
+<li>做研究两种思考方式：
+<ul>
+<li>一：自己不具备有价值的数据，看当前研究方向里的related work，用二维表格进行填坑，每行是 related work，每列可以是 motivation，methodology，experiment等，把读完的每个work，相应列具有的信息总结在表里，同类工作的找到共性和差异，寻找idea。（通常来说高校模式）</li>
+<li>二：自己具备有价值的数据，数据驱动的研究，比如大公司有产品，平台，都会产生数据，通过实际中的问题发现研究点，这样自己可以走在这个方向的前沿，自己要开宗立派，进行挖坑，可以成体系地展开一系列工作。（通常这个模式在大公司行得通）</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+          </div>
+        </div>
+
+        
+          <div class="next-post">
+            <a class="purple-link" href="https://blog.battlin.site/post/yu-yan-gu-shi-lesslesshei-yang-greatergreater-yi-da-li-qia-er-wei-nuo/">
+              <h3 class="post-title">
+                下一篇：《黑羊》——[意大利] 卡尔维诺
+              </h3>
+            </a>
+          </div>
+          
+      </div>
+
+      
+
+      <div class="site-footer">
+  <div class="slogan">我很懒，但很想留下什么</div>
+  <div class="social-container">
+    
+      
+        <a href="https://github.com/battlin6" target="_blank">
+          <i class="fab fa-github"></i>
+        </a>
+      
+    
+      
+    
+      
+    
+      
+        <a href="https://www.zhihu.com/people/xu-zhen-yu-17-47" target="_blank">
+          <i class="fab fa-zhihu"></i>
+        </a>
+      
+    
+      
+    
+  </div>
+   | <a class="rss" href="https://blog.battlin.site//atom.xml" target="_blank">RSS</a>
+</div>
+
+
+    </div>
+    <script type="application/javascript">
+
+hljs.initHighlightingOnLoad()
+
+var app = new Vue({
+  el: '#app',
+  data: {
+    menuVisible: false,
+  },
+})
+
+</script>
+
+
+
+
+  </body>
+</html>
